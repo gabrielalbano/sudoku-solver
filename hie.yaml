@@ -1,0 +1,13 @@
+cradle:
+  stack:
+    - path: "./src/Main.hs"
+      component: "sudoku-game:exe:sudoku-game"
+
+    - path: "./src/Problem.hs"
+      component: "sudoku-game:exe:sudoku-game"
+
+    - path: "./src/Search.hs"
+      component: "sudoku-game:exe:sudoku-game"
+
+    - path: "./src/Sudoku.hs"
+      component: "sudoku-game:exe:sudoku-game"
